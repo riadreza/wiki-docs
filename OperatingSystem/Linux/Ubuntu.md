@@ -2,7 +2,7 @@
 title: Ubuntu
 description: 
 published: true
-date: 2025-12-17T09:09:47.952Z
+date: 2025-12-17T09:11:54.894Z
 tags: linux, ubuntu
 editor: markdown
 dateCreated: 2025-12-17T07:47:32.303Z
@@ -15,7 +15,9 @@ Ubuntu is a free, open-source Linux operating system built on Debian. It’s des
 ---
 
 ## Important Commands:
+Some important commands are given below.
 
+### Enable root access:
 Enable root user to SSH access in Ubuntu:
 
 ```bash
